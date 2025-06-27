@@ -8,3 +8,21 @@ QuestBoard
 - Team members as heroes (Boss: Wizard King, Knight: Backend Dev, Wizard: Frontend Dev)
 - EXP, Badges, Streaks, Rewards, etc... (Progress Bar, EXP Points System)
 - Health Points (As time nears deadline HP decreases)
+
+Project Description
+- QuestBoard is a project timeline tracker designed to make productivity more engaging, fun, habit-forminh built for company 
+and personal use. (Go on your own journey or join a guild)
+
+Features
+- XP based Leveling System (per user)
+- hall of fame (leaderboards)
+- progress tracking
+- user avatars
+- pet system
+- badge system
+
+Target users
+- freelancers
+- students (for collaborative and solo use) 
+- agencies working in multiple projects
+
