@@ -1,0 +1,10 @@
+HACKATHON THEME #1
+
+CORE PROBLEM: Tools like Notion, Asana, ClickUp, and Jira optimize for information management, not user experience
+
+QuestBoard
+- Projects as quests
+- Tasks as missions
+- Team members as heroes (Boss: Wizard King, Knight: Backend Dev, Wizard: Frontend Dev)
+- EXP, Badges, Streaks, Rewards, etc... (Progress Bar, EXP Points System)
+- Health Points (As time nears deadline HP decreases)
